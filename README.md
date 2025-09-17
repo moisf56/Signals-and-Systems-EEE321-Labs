@@ -245,15 +245,16 @@ This repository contains coursework completed for academic purposes at Bilkent U
 
 - **Student:** Mohammed Abed
 - **Student ID:** 21903608
+- **Emails:** moisf56@gmail.com - mohammed.abed@ug.bilkent.edu.tr
 - **Institution:** Bilkent University
 - **Department:** Electrical and Electronics Engineering
 
 ## 📝 License
 
-This project is created for educational purposes as part of the EEE321 course at Bilkent University.
+This project is created for educational purposes as part of the EEE321 course at Bilkent University. For Bilkent students: I am aware of the changes to the EEE321 labs, but feel free to use my work to help you navigate through solving and implementing the new Labs. Best of Luck!
 
 ---
 
-**Last Updated:** [Current Date]  
+**Last Updated:** [Wednesday, 17.09.2025]  
 **MATLAB Version:** R2020a+  
 **Course Completion:** 2023-2024 Academic Year
