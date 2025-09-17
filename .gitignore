@@ -1,0 +1,125 @@
+# MATLAB Generated Files
+*.asv
+*.m~
+*.mex*
+*.fig
+*.slx.autosave
+*.slx.original
+*.slxc
+*.mlx~
+*.mlapp.bak
+
+# MATLAB Cache and Temporary Files
+*.tmp
+*_temp.m
+cachefile.mat
+*.autosave
+
+# MATLAB Compiled Files
+codegen/
+slprj/
+*.p
+*.mexw32
+*.mexw64
+*.mexa64
+*.mexmaci64
+
+# MATLAB Simulink
+*.slx.r*
+*.mdlp
+*.slxp
+*.sldd
+*.slreqx
+
+# MATLAB Profiler
+profile_results/
+
+# MATLAB Data Files (uncomment if you don't want to track large data files)
+# *.mat
+
+# MATLAB Toolbox Cache
+*.mltbx
+*.mltx
+
+# Audio Files (large files - consider using Git LFS)
+*.wav
+*.mp3
+*.flac
+*.m4a
+
+# Image Files (if very large - consider using Git LFS)
+# *.bmp
+# *.jpg
+# *.jpeg
+# *.png
+# *.tiff
+# *.tif
+
+# Video Files
+*.avi
+*.mp4
+*.mov
+*.wmv
+
+# Compiled Files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Archives (if temporary)
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# LaTeX (for reports)
+*.aux
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.bbl
+*.blg
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Output Directories
+/output/
+/temp/
+/build/
+
+# Personal Notes
+personal_notes.md
+todo.txt
+
+# Large Result Files
+results/*.mat
+results/*.png
+results/*.jpg
+
+# Sensitive Information
+config.mat
+credentials.m
