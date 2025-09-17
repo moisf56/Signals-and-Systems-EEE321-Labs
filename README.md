@@ -80,8 +80,14 @@ EEE321-Signals-Systems/
 │   └── results/
 │       └── (system response plots)
 └── utils/
-    ├── common_functions.m
-    └── plotting_utilities.m
+    ├── DisplayMyImage.m
+    └── FSWave.m
+    └── FSWave.m
+    └── FT.m
+    └── generateInterpol.m
+    └── IFT.m
+    └── ReadMyImage.m
+    └── SUMCS.m
 ```
 
 ## 🧪 Lab Assignments Overview
@@ -140,7 +146,7 @@ EEE321-Signals-Systems/
   - Digital filter implementation (Band-pass filter example)
 - **Key Functions:** `DTLTI.m`
 
-## 🔧 Key MATLAB Functions
+## 🔧 Key MATLAB Functions (Utils Folder)
 
 | Function | Lab | Purpose | Description |
 |----------|-----|---------|-------------|
@@ -231,11 +237,11 @@ Each lab folder contains:
 - Detailed lab reports with results and analysis
 - Well-commented MATLAB code with proper documentation
 
-## 🤝 Academic Integrity
+## Academic Integrity
 
 This repository contains coursework completed for academic purposes at Bilkent University. The code and reports are provided for educational reference. Please respect academic integrity policies and use this material responsibly.
 
-## 📞 Contact Information
+## Contact Information
 
 - **Student:** Mohammed Abed
 - **Student ID:** 21903608
