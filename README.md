@@ -146,7 +146,7 @@ EEE321-Signals-Systems/
   - Digital filter implementation (Band-pass filter example)
 - **Key Functions:** `DTLTI.m`
 
-## 🔧 Key MATLAB Functions (Utils Folder)
+## 🔧 Key MATLAB Functions (utils Folder)
 
 | Function | Lab | Purpose | Description |
 |----------|-----|---------|-------------|
